@@ -128,7 +128,7 @@ This approach provides:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request to it 
+Contributions are welcome! Please feel free to submit a Pull Request to it and have a touch with .
 
 ## License
 
