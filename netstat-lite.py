@@ -10,7 +10,7 @@ def parse_proc_net(file, proto):
             parts = line.split()
             local = parts[1]
             state = parts[3]
-            inode = parts[9]
+            inode = parts[]
 
             ip_hex, port_hex = local.split(":")
             port = int(port_hex, 16)
