@@ -11,7 +11,7 @@ A lightweight network analyzer for Linux that reads directly from `/proc/net/tcp
 
 ## Requirements
 
-- Linux operating system
+- Linux operating system (Arch best)
 - Python 3.x
 - Root access (for some network information)
 
