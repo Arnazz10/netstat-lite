@@ -1,6 +1,6 @@
 # NetStat Lite CLI
 
-A lightweight network analyzer for Linux that reads directly from `/proc/net/tcp` and `/proc/net/udp` to display network connections and listening ports into it
+A lightweight network analyzer for Linux that reads directly from `/proc/net/tcp` and `/proc/net/udp` to display network connections and listening ports into.
 
 ## Features
 
