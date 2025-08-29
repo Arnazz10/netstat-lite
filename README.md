@@ -7,7 +7,7 @@ A lightweight network analyzer for Linux that reads directly from `/proc/net/tcp
 - **Lightweight**: No external dependencies, reads directly from Linux proc filesystem
 - **Fast**: Minimal overhead compared to traditional netstat
 - **Flexible**: Filter by protocol, connection state, and port ranges
-- **Simple**: Clean, easy-to-read output format
+- **Simple**: Clean, easy-to-read output format into it.
 
 ## Requirements
 
